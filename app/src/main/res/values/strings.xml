@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pagamento</string>
+    <string name="formpag">Forma de Pagamento</string>
+    <string name="escolha">Escolha sua forma de pagamento:</string>
+    <string name="cartao">Cartão de Crédito</string>
+    <string name="cartao2">Cartão de Débito</string>
+    <string name="cartao3">Pix</string>
+    <string name="ler">Ler Cartão</string>
+    <string name="numcarta">Número do Cartão</string>
+    <string name="Nomeimpre">Nome impresso no Cartão</string>
+    <string name="cpfti">CPF do titular</string>
+    <string name="vali">Validade</string>
+    <string name="cvv">CVV</string>
+    <string name="salvarcart">Salvar cartão para próximas compras</string>
+    <string name="credito">Cartão de Crédito</string>
+    <string name="fim">FINALIZAR PAGAMENTO</string>
+</resources>
