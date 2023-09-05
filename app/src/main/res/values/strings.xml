@@ -13,5 +13,24 @@
     <string name="cvv">CVV</string>
     <string name="salvarcart">Salvar cartão para próximas compras</string>
     <string name="credito">Cartão de Crédito</string>
-    <string name="fim">FINALIZAR PAGAMENTO</string>
+    <string name="pix1">Unidade consumidora</string>
+    <string name="pix2">1/58966-9 (FRAMING LTDA)</string>
+    <string name="pix3">Referência</string>
+    <string name="pix4">Setembro/2023</string>
+    <string name="pix5">Vencimento</string>
+    <string name="pix6">07/05/2023</string>
+    <string name="pix7">Valor</string>
+    <string name="pix8">R$ 51,66</string>
+    <string name="pix9">PIX Copia e Cola</string>
+    <string name="pix10">Pagar com o QR CODE</string>
+    <string name="pix11">Pix</string>
+    <string name="fim">Finalizar Pagamento</string>
+    <string name="copia">CÓDIGO COPIADO</string>
+    <string name="copia2">Abra o aplicativo do seu banco e realize o pagamento</string>
+    <string name="copia3">OK</string>
+    <string name="copia4">Copie ou Escaneie o QR CODE</string>
+    <string name="copia5">Ao copiar o código, abra o aplicativo do seu banco e realize seu pagamento</string>
+    <string name="copia6">Copiar Código</string>
+    <string name="copia7">FECHAR</string>
+
 </resources>

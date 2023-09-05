@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/drawable/buttonfinalizar.xml" value="0.1365" />
         <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/drawable/buttonpag.xml" value="0.1375" />
         <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/drawable/fundopag.xml" value="0.1375" />
         <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/drawable/imgleftpag.xml" value="0.1375" />
+        <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/layout/activity_copiadopix.xml" value="0.16" />
         <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/layout/activity_credito.xml" value="0.25" />
-        <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/layout/activity_qrcodetoast.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/layout/activity_telapix.xml" value="0.17" />
+        <entry key="..\:/Users/Acer/Documents/pagamento/app/src/main/res/layout/copiaecolatoast.xml" value="0.25" />
       </map>
     </option>
   </component>

@@ -11,8 +11,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Pagamento"
+        android:theme="@style/Theme.pagamento"
         tools:targetApi="31">
+        <activity
+            android:name=".qrcodetoast"
+            android:exported="false" />
+        <activity
+            android:name=".copiadopix"
+            android:exported="false" />
+        <activity
+            android:name=".telapix"
+            android:exported="false" />
         <activity
             android:name=".credito"
             android:exported="false" />
@@ -25,6 +34,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>

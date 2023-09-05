@@ -56,14 +56,15 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName2"
-        android:layout_width="350dp"
-        android:layout_height="63dp"
+        android:layout_width="353dp"
+        android:layout_height="59dp"
         android:background="@drawable/buttonpag"
         android:ems="10"
         android:fontFamily="@font/poppins_light"
         android:inputType="textPersonName"
-        android:padding="15dp"
         android:text="@string/cpfti"
+        android:paddingTop="18dp"
+        android:paddingLeft="15dp"
         android:textColor="@color/white"
         android:textSize="15dp"
         tools:layout_editor_absoluteX="30dp"
@@ -101,13 +102,14 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName4"
-        android:layout_width="350dp"
-        android:layout_height="63dp"
+        android:layout_width="353dp"
+        android:layout_height="59dp"
         android:background="@drawable/buttonpag"
         android:ems="10"
         android:fontFamily="@font/poppins_light"
         android:inputType="textPersonName"
-        android:padding="15dp"
+        android:paddingTop="18dp"
+        android:paddingLeft="15dp"
         android:text="@string/Nomeimpre"
         android:textColor="@color/white"
         android:textSize="15dp"
@@ -116,14 +118,15 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName"
-        android:layout_width="350dp"
-        android:layout_height="63dp"
+        android:layout_width="353dp"
+        android:layout_height="59dp"
         android:background="@drawable/buttonpag"
         android:drawableEnd="@drawable/cartaocredito"
         android:ems="10"
         android:fontFamily="@font/poppins_light"
         android:inputType="textPersonName"
-        android:padding="15dp"
+        android:paddingTop="19dp"
+        android:paddingLeft="15dp"
         android:paddingEnd="15dp"
         android:text="@string/numcarta"
         android:textColor="@color/white"
@@ -133,19 +136,18 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="170dp"
-        android:layout_height="55dp"
+        android:layout_width="176dp"
+        android:layout_height="62dp"
         android:background="#00FFFFFF"
-        android:fontFamily="@font/poppins_light"
-        android:textSize="14dp"
         android:backgroundTint="#00FFFFFF"
         android:drawableStart="@drawable/cameracredito"
-        android:drawablePadding="-20dp"
+        android:fontFamily="@font/poppins_light"
         android:paddingStart="20dp"
         android:text="@string/ler"
         android:textColor="#FFFFFF"
+        android:textSize="14dp"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="80dp" />
+        tools:layout_editor_absoluteY="73dp" />
 
     <RadioButton
         android:id="@+id/radioButton"
@@ -164,6 +166,10 @@
         android:layout_height="55dp"
         android:fontFamily="@font/poppins_bold"
         android:text="@string/fim"
+        android:background="@drawable/buttonfinalizar"
+        android:textSize="16dp"
+        android:textAlignment="center"
+        android:paddingTop="15dp"
         android:textColor="@color/white"
         tools:layout_editor_absoluteX="84dp"
         tools:layout_editor_absoluteY="559dp" />
